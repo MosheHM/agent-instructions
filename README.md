@@ -14,6 +14,7 @@ agents/
 │   ├── devops-cicd-engineer.md
 │   ├── code-reviewer.md
 │   ├── code-refactorer.md
+│   ├── garbage-collector.md
 │   └── security-researcher.md
 ├── content/                 # Content creation agents
 │   ├── technical-writer.md
@@ -34,7 +35,8 @@ agents/
 - **Node.js Backend Developer** - Express, NestJS, TypeScript, real-time apps
 - **DevOps CI/CD Engineer** - Docker, Kubernetes, Terraform, GitHub Actions
 - **Code Reviewer** - Critical code analysis, security, performance review
-- **Code Refactorer** - Clean code, technical debt reduction, optimization
+- **Code Refactorer** - Improving code structure, eliminating duplication, simplifying logic
+- **Garbage Collector** - Removing dead code, unused files, deprecated dependencies
 - **Security Researcher** - Vulnerability detection, OWASP Top 10, security audits
 
 ### Content Creation Agents
@@ -403,7 +405,8 @@ Choose the right agent for your task:
 | Creating REST APIs | Python/Node.js Backend Developer |
 | CI/CD pipeline setup | DevOps CI/CD Engineer |
 | Code review & quality | Code Reviewer |
-| Cleaning up legacy code | Code Refactorer |
+| Improving code structure | Code Refactorer |
+| Removing dead code & files | Garbage Collector |
 | Security assessment | Security Researcher |
 | Writing documentation | Technical Writer |
 | Marketing content | Copywriter |
